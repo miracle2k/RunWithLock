@@ -1,0 +1,3 @@
+Integrate with Dropbox: wait for confirmed sync. On Linux, there is the dropbox.py CLI script that can interact with the daemon through a socket. Apparently that is possible on Windows as well: http://www.dropboxwiki.com/Python_Script_To_Get_File_Or_Folder_Status_In_Windows, http://www.dropboxwiki.com/Return_Dropbox_Status
+
+Support killing the remote instance.
